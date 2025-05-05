@@ -1,0 +1,11 @@
+desk:
+  contents:
+  - drawer_top:
+      open: true
+      desc: the inside, unlike the outer desk, is the original beigish wood color.
+        etched upside down at the bottom of the drawer once opened is the phrase 'write
+        your name on the piece of paper'. the bible is resting on top of and thus
+        obscuring the etching.
+      contents:
+      - bible:
+          desc: resting on top of and thus obscuring the etching.
